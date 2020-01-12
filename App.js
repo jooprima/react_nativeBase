@@ -63,9 +63,9 @@ export default class App extends Component {
         </Header>
 
         <ScrollView style={{marginTop:10,marginBottom:10}}>
-          <Button>
+          {/* <Button>
             <Text>Button Native Base</Text>
-          </Button>
+          </Button> */}
 
           <Accordion
             dataArray={dataArray}
